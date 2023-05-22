@@ -1,0 +1,53 @@
+body{
+    background-image: url(bak2.jpeg);
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(243, 232, 198);
+}
+.categories{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 35px;
+    background-color:rgb(112, 7, 56);
+}
+.categoriesd {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    margin-left: 20px;
+    background-color:rgb(112, 7, 56);
+}
+img{
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+}
+img:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.caption {
+    display: block;
+    font-size: 30px;
+    padding-top: 5px;
+    color: white;
+}
+.caption:hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+a {
+    text-decoration:none;
+}
